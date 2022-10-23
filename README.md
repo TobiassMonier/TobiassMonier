@@ -1,3 +1,2 @@
 ### <>¡Hola Mundo 🌍!</>
 
-##Developer Trainee
